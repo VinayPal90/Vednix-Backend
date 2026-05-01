@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Environment Variables (Bahut Zaroori)
+.env
+.env.test
+.env.production
+
+# Optional npm cache and error logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac OS folder attributes
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
